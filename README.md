@@ -12,8 +12,8 @@ To set up you will need a laptop, smartphone or tablet, a text editor to view yo
 https://faithngotho.github.io/portfolio/
 
 ## Technologies Used
-HTML
-CSS
+1. HTML
+2. CSS
 
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns please contact me on faithwangari248@gmail.com.
