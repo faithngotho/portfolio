@@ -3,3 +3,8 @@ h1{
   font-style: italic;
   background-color: blue;
 }
+
+h2{
+  color: blue;
+  font-style: normal;
+}
