@@ -1,36 +1,22 @@
 body{
   text-align: center;
 }
-.container{
-  position:relative;
-  margin-top: 2px;
-  margin-left: 100px;
-  margin-right: 100px;
-  border-style: solid;
-  border-color: blue;
-  border-width: thick;
-  padding-bottom: 10px;
-  padding-top: 5px;
-}
 
 h1{
   color: red;
   font-style: italic;
-  background-color: blue;
 }
 
 h2{
-  color: blue;
+  color: red;
   font-style: normal;
+}
+
+ul{
+  list-style: disc;
+  text-align: center;
 }
 
 h3{
   color: blue;
 }
-
-ul{
-  color: brown;
-}
-
-p{
-  color: blue;
